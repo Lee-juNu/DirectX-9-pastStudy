@@ -1,0 +1,4 @@
+﻿  winMain.cpp
+g:\usb 백업\usb 백업\프로그래밍 관련\게임관련\게임맵&툴(타일맵)\collectors game - 복사본\winmain.cpp(89): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+g:\usb 백업\usb 백업\프로그래밍 관련\게임관련\게임맵&툴(타일맵)\collectors game - 복사본\winmain.cpp(90): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HOSIDirect3D.vcxproj -> G:\USB 백업\USB 백업\프로그래밍 관련\게임관련\게임맵&툴(타일맵)\Collectors Game - 복사본\Debug\HOSIDirect3D.exe
