@@ -1,8 +1,9 @@
 #pragma once
-
+#include "triangle.h"
 class playGround
 {
 private:	
+	triangle tri;
 public:
 	HRESULT init(void);		//초기화 함수
 	void release(void);		//메모리 관련 해제

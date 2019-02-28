@@ -36,6 +36,9 @@
     <ClInclude Include="d3dUtility.h">
       <Filter>3DGameFramework</Filter>
     </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>playGround</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -49,6 +52,9 @@
     </ClCompile>
     <ClCompile Include="d3dUtility.cpp">
       <Filter>3DGameFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>playGround</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
